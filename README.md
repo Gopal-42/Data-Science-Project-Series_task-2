@@ -65,5 +65,3 @@ model = build_model(X_train, y_train)
 This project demonstrates how to predict breast cancer using Python and machine learning techniques. By following the outlined steps, one can load, preprocess, and analyze breast cancer data, train models, and make predictions to assist in early diagnosis.
 
 ---
-
-Feel free to customize and expand upon this template to better suit your project's specific needs!
